@@ -3,15 +3,15 @@
 header {
   height: 5em;
   background-color: $primary-color;
-};
+}
 
 .action {
-  height: 9em;
+  height: 13em;
   .action-button {
     margin: 0 auto;
     margin-top: 7em;
   }
-};
+}
 
 .meteor {
   height: 9em;
@@ -20,11 +20,13 @@ header {
   h2 {
     color: $primary-color-text;
     text-align: center;
-    font-weight: normal;;
+    font-weight: normal;
+    margin-top: 3em;
   }
 
   p {
     color: $primary-color-text;
+    text-align: center;
     opacity: 0.7;
   }
 }
