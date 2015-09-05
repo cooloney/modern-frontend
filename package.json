@@ -1,21 +1,21 @@
 {
-  "name": "qd",
+  "name": "Modern-Frontend",
   "version": "1.0.0",
-  "description": "q",
+  "description": "Modern Frontend Class Personal Project",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/happypeter/qd.git"
+    "url": "git@github.com:cooloney/modern-frontend.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/happypeter/qd/issues"
+    "url": "https://github.com/cooloney/modern-frontend/issues"
   },
-  "homepage": "https://github.com/happypeter/qd",
+  "homepage": "https://cooloney.github.io/modern-frontend",
   "devDependencies": {
     "gulp": "^3.9.0",
     "gulp-autoprefixer": "^2.3.1",
