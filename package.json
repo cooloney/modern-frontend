@@ -1,0 +1,24 @@
+{
+  "name": "qd",
+  "version": "1.0.0",
+  "description": "q",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/happypeter/qd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/happypeter/qd/issues"
+  },
+  "homepage": "https://github.com/happypeter/qd",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^2.3.1",
+    "gulp-sass": "^2.0.4"
+  }
+}
