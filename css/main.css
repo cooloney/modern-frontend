@@ -75,11 +75,13 @@ header {
 
 .changsha {
   background-image: url("changsha.jpg");
-  background-size: cover; }
+  background-size: cover;
+  background-position: center center; }
 
 .hangzhou {
   background-image: url("hangzhou.jpg");
-  background-size: cover; }
+  background-size: cover;
+  background-position: center center; }
 
 .shanghai {
   background-image: url("shanghai.jpg");
@@ -88,7 +90,8 @@ header {
 
 .silicon-valley {
   background-image: url("silicon_valley.jpg");
-  background-size: cover; }
+  background-size: cover;
+  background-position: center center; }
 
 footer {
   height: 3em;
