@@ -5,47 +5,33 @@
     <title>我的足迹</title>
     <link rel="stylesheet" href="css/main.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="http://cdn.bootcss.com/react/0.14.0-beta2/JSXTransformer.js"></script>
+    <script src="http://cdn.bootcss.com/react/0.14.0-beta2/react.js"></script>
 </head>
 <body>
-    <header>
-        <h2 class="clearfix">我的足迹</h2>
-    </header>
+    <header id="header"></header>
 
     <div class="banner clearfix">
     </div>
     <div class="divider"></div>
-    <div class="location changsha clearfix">
-        <div class="text-wrapper">
-            <h2>长沙</h2>
-            <p>成长的回忆</p>
-        </div>
-    </div>
+
+    <div id="changsha"></div>
     <div class="divider"></div>
 
-    <div class="location hangzhou clearfix">
-        <div class="text-wrapper">
-            <h2>杭州</h2>
-            <p>求学之路</p>
-        </div>
-    </div>
+    <div id="hangzhou"></div>
     <div class="divider"></div>
 
-    <div class="location shanghai clearfix">
-        <div class="text-wrapper">
-            <h2>上海</h2>
-            <p>工作在魔都</p>
-        </div>
-    </div>
+    <div id="shanghai"></div>
     <div class="divider"></div>
 
-    <div class="location silicon-valley clearfix">
-        <div class="text-wrapper">
-            <h2>硅谷</h2>
-            <p>创新的生活</p>
-        </div>
-    </div>
+    <div id="silicon-valley"></div>
     <div class="divider"></div>
 
     <footer></footer>
+    <script type="text/jsx", src="./components/Header.jsx"></script>
+    <script type="text/jsx", src="./components/Changsha.jsx"></script>
+    <script type="text/jsx", src="./components/Hangzhou.jsx"></script>
+    <script type="text/jsx", src="./components/Shanghai.jsx"></script>
+    <script type="text/jsx", src="./components/SiliconValley.jsx"></script>
 </body>
 </html>
