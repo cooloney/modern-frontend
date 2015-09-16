@@ -10,5 +10,3 @@ var SiliconValley = React.createClass({
        );
    }
 });
-
-React.render(<SiliconValley />, document.getElementById('silicon-valley'));

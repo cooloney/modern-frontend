@@ -10,5 +10,3 @@ var Changsha = React.createClass({
         );
     }
 });
-
-React.render(<Changsha />, document.getElementById('changsha'));

@@ -10,5 +10,3 @@ var Hangzhou = React.createClass({
         );
     }
 });
-
-React.render(<Hangzhou />, document.getElementById('hangzhou'));

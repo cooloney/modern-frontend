@@ -1,5 +1,3 @@
-//var React = require('react');
-
 var Header = React.createClass({
     render: function() {
         return (
@@ -9,7 +7,4 @@ var Header = React.createClass({
         );
     }
 });
-
-React.render(<Header />, document.getElementById('header'));
-
 

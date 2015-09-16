@@ -10,5 +10,3 @@ var Shanghai = React.createClass({
         );
     }
 });
-
-React.render(<Shanghai />, document.getElementById('shanghai'));
