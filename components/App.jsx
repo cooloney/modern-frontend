@@ -1,9 +1,9 @@
 var React = require('react');
-var Header = require('./Header.js');
-var Changsha = require('./Changsha.js');
-var Hangzhou = require('./Hangzhou.js');
-var Shanghai = require('./Shanghai.js');
-var SiliconValley = require('./SiliconValley.js');
+var Header = require('./Header.jsx');
+var Changsha = require('./Changsha.jsx');
+var Hangzhou = require('./Hangzhou.jsx');
+var Shanghai = require('./Shanghai.jsx');
+var SiliconValley = require('./SiliconValley.jsx');
 
 var App = React.createClass({
     render: function () {
